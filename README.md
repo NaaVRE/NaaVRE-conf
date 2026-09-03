@@ -21,13 +21,6 @@ For example, the `r-climwin` module is already installed in the base image and d
 not require any additional installation.
 
 
-## Base Image Tags
-
-For each Virtual lab we use different build and runtime base images and is used 
-by NaaVRE-containerizer-service.  The 
-`base_image_tags.json` file maps the virtual lab name to the corresponding base image tag.
-
-
 ## Built-in Function URL
 
 This file maps build-in function names and reserved variables names for the code analyzer in the NaaVRE-containerizer-service. 
