@@ -15,7 +15,9 @@
         "searoute": "searoute",
         "lexcube": "lexcube",
         "pdal-plugins": "pdal-plugins",
-        "rws-ddlpy": "rws-ddlpy"
+        "rws-ddlpy": "rws-ddlpy",
+        "retry-requests": "retry-requests",
+        "pyrealm": "pyrealm"
     },
     "conda": {
         "torch": "pytorch",
@@ -34,7 +36,8 @@
         "sklearn": "scikit-learn",
         "scikit_posthocs": "scikit-posthocs",
         "skbio": "scikit-bio",
-        "skimage": "scikit-image"
+        "skimage": "scikit-image",
+        "ee": "earthengine-api"
     },
     "r": {
         "r-climwin": null,
@@ -51,6 +54,8 @@
         "r-vol2birdR": null,
         "r-vol2birdr": null,
         "r-blockcv": null,
-        "r-blockCV": null
+        "r-blockCV": null,
+        "r-tempsed": null,
+        "r-TempSED": null
     }
 }
