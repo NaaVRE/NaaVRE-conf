@@ -57,7 +57,9 @@
         "r-blockCV": null,
         "r-tempsed": null,
         "r-TempSED": null,
+        "r-geothinner": null,
         "r-GeoThinneR": null,
+        "r-pcatest": null,
         "r-PCAtest": null
     }
 }
