@@ -43,7 +43,6 @@
         "r-climwin": null,
         "r-dtwad": null,
         "r-dtpp": null,
-        "r-dtwad": null,
         "r-dtPClake": null,
         "r-minioclient": null,
         "r-bioRad": null,
@@ -60,6 +59,13 @@
         "r-geothinner": null,
         "r-GeoThinneR": null,
         "r-pcatest": null,
-        "r-PCAtest": null
+        "r-PCAtest": null,
+        "r-reactran": null,
+        "r-tidyterra": null,
+        "r-grdevices": null,
+        "r-heatwaver": null,
+        "r-dtrtools": null,
+        "r-dtrwad": null,
+        "r-dtrprimprod": null
     }
 }
