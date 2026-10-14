@@ -61,11 +61,17 @@
         "r-pcatest": null,
         "r-PCAtest": null,
         "r-reactran": null,
+        "r-ReacTran": null,
         "r-tidyterra": null,
         "r-grdevices": null,
+        "r-grDevices": null,
         "r-heatwaver": null,
+        "r-heatwaveR": null,
         "r-dtrtools": null,
+        "r-dtRtools": null,
         "r-dtrwad": null,
-        "r-dtrprimprod": null
+        "r-dtRwad": null,
+        "r-dtrprimprod": null,
+        "r-dtRprimprod": null
     }
 }
